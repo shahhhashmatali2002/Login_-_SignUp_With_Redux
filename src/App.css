@@ -1,0 +1,26 @@
+.login{
+  height: 400px;
+  width: 450px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: rgb(195, 211, 211);
+}
+.signUp{
+  height: 500px;
+  width: 500px;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: rgb(195, 211, 211);
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked {
+  color: rgb(25, 118, 210) !important;
+}
