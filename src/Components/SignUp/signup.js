@@ -34,9 +34,13 @@ const Signup = () => {
             setChckBox(false)
         }
     }
+    const loginn = useSelector((state) => state.list)
 
     const signUp = () => {
-        if (values.firstName === '' || values.lastname === '' || values.eMail === '' || values.pswrd === '' || values.cnfrmPswrd === '') {
+        let verify = loginn.find(el => el.data.eMail === values.eMail);
+        if(verify){
+            alert("This Email Already Exist")
+        }else if (values.firstName === '' || values.lastname === '' || values.eMail === '' || values.pswrd === '' || values.cnfrmPswrd === '') {
             alert("Please Fill all Fields")
         } else if (values.pswrd !== values.cnfrmPswrd) {
             alert("Password Doesn't match")
