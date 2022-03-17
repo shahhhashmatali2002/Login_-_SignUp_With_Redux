@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Login_-_SignUp_With_Redux/static/css/main.6b3aa199.chunk.css",
+    "main.js": "/Login_-_SignUp_With_Redux/static/js/main.b6faa5f2.chunk.js",
+    "main.js.map": "/Login_-_SignUp_With_Redux/static/js/main.b6faa5f2.chunk.js.map",
+    "runtime-main.js": "/Login_-_SignUp_With_Redux/static/js/runtime-main.f4d300cd.js",
+    "runtime-main.js.map": "/Login_-_SignUp_With_Redux/static/js/runtime-main.f4d300cd.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Login_-_SignUp_With_Redux/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3416cf17.chunk.js": "/Login_-_SignUp_With_Redux/static/js/2.3416cf17.chunk.js",
+    "static/js/2.3416cf17.chunk.js.map": "/Login_-_SignUp_With_Redux/static/js/2.3416cf17.chunk.js.map",
+    "static/js/3.252e57b2.chunk.js": "/Login_-_SignUp_With_Redux/static/js/3.252e57b2.chunk.js",
+    "static/js/3.252e57b2.chunk.js.map": "/Login_-_SignUp_With_Redux/static/js/3.252e57b2.chunk.js.map",
+    "index.html": "/Login_-_SignUp_With_Redux/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Login_-_SignUp_With_Redux/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.6b3aa199.chunk.css.map": "/Login_-_SignUp_With_Redux/static/css/main.6b3aa199.chunk.css.map",
+    "static/js/2.3416cf17.chunk.js.LICENSE.txt": "/Login_-_SignUp_With_Redux/static/js/2.3416cf17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4d300cd.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3416cf17.chunk.js",
+    "static/css/main.6b3aa199.chunk.css",
+    "static/js/main.b6faa5f2.chunk.js"
+  ]
+}
